@@ -4,9 +4,16 @@
 
 ## LAB - Class 16
 
+Find the capital by enter the country name 
+
+  - [Country](https://capital-finder3.vercel.app/api/capital-finder?country=Chile)
+
+Find the country by enter the capital name 
+  - [Capital](https://capital-finder3.vercel.app/api/capital-finder?capital=Santiago)
 
 
-#### 
+
+
 
 ## Code 
 
