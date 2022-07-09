@@ -1,15 +1,3 @@
-## Project:  capital-finder
-
-### Author: Essa Abu al-Khair
-
-## LAB - Class 16
-
-
-
-#### 
-
-## Code 
-
 from http.server import BaseHTTPRequestHandler
 from urllib import parse
 import requests
